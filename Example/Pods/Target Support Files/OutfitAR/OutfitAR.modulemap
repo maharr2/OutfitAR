@@ -1,0 +1,6 @@
+framework module OutfitAR {
+  umbrella header "OutfitAR-umbrella.h"
+
+  export *
+  module * { export * }
+}
