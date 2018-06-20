@@ -1,5 +1,7 @@
 # OutfitAR
 
+Play Dress up with daily outfits and AR
+
 [![CI Status](https://img.shields.io/travis/Rashmi Maharjan/OutfitAR.svg?style=flat)](https://travis-ci.org/Rashmi Maharjan/OutfitAR)
 [![Version](https://img.shields.io/cocoapods/v/OutfitAR.svg?style=flat)](https://cocoapods.org/pods/OutfitAR)
 [![License](https://img.shields.io/cocoapods/l/OutfitAR.svg?style=flat)](https://cocoapods.org/pods/OutfitAR)
@@ -27,3 +29,4 @@ Rashmi Maharjan, Rashmi_Maharjan@gap.com
 ## License
 
 OutfitAR is available under the MIT license. See the LICENSE file for more info.
+
